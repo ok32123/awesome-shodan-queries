@@ -529,7 +529,7 @@ Example images not necessary. 🤦
 "Server: IP Webcam Server" "200 OK"
 ```
 
-### Axis Communications [🔎 &#x2192;](https://www.shodan.io/search?query=http.favicon.hash%3A-1616143106+)
+### Axis Communications [🔎 &#x2192;](https://www.shodan.io/search?query=http.favicon.hash%3A-1616143106)
 
 ```
 http.favicon.hash:-1616143106
